@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93585033672",
+    "project_id": "cane-stage-3-6l8bmg",
+    "storage_bucket": "cane-stage-3-6l8bmg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93585033672:android:f57e4480eac0611d6a98fd",
+        "android_client_info": {
+          "package_name": "com.mycompany.canestage3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKxOKstQuPcedabdGvDJq2tx40JgN2h1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
